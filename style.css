@@ -1,0 +1,11 @@
+html,body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    letter-spacing: .5px;
+}
+
+ul{
+    list-style-type: none;
+}
